@@ -15,7 +15,7 @@ Open source Flux Capacitor PCB for Flipper Zero using E07-433M20S (CC1101). Sub-
 ## 📸 Preview
 
 ![Flux Capacitor](images/flux-capacitor-render.png)
-
+| Schematic | [View PDF](schematic/SCH_flipper-flux-capacitor.pdf) |
 ---
 
 ## 📖 What Is It?
